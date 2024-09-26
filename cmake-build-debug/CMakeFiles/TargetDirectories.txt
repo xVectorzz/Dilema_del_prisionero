@@ -1,0 +1,3 @@
+C:/Users/Victo/CLionProjects/Dilema del prisionero/cmake-build-debug/CMakeFiles/Dilema_del_prisionero.dir
+C:/Users/Victo/CLionProjects/Dilema del prisionero/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Victo/CLionProjects/Dilema del prisionero/cmake-build-debug/CMakeFiles/rebuild_cache.dir
